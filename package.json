@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-slow-down": "^1.6.0",
+    "rss-parser": "^3.12.0",
+    "webhook-discord": "^3.7.8"
+  }
+}
