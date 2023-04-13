@@ -24,7 +24,7 @@ const rssUrl = "https://www.siteurl.com/rss"; // Example: https://www.ise.town/r
 const defaultImg = 'default img url'; // Example: https://www.ise.town/content/images/2023/04/town.png
 </pre>
 
-##### 5- The time interval for checking should be entered in milliseconds:
+##### 5- You must specify in milliseconds how long after the sharing takes place, control will be provided:
 
 <pre>
 const timeOut = 20000;
