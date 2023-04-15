@@ -1,6 +1,6 @@
 # Ghost CMS Discord Webhook v2
 
-## DEMO:
+### DEMO:
 
 ![ghost-discord-api](/ghost-discord-api.png "ghost-discord-api")
 
