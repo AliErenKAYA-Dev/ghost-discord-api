@@ -52,3 +52,7 @@ node index.js
 ##### 8- Access your Ghost CMS Admin Panel and add integration:
 
 ![ghost-integrations](/ghost-integrations.png "ghost-integrations")
+
+#### DEMO:
+
+![ghost-discord-api](/ghost-discord-api.png "ghost-discord-api")
